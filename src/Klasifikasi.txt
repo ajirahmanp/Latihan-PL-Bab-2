@@ -1,0 +1,4 @@
+Class : Mahasiswa dan Berlari 
+Object : m,b
+Atribut : Nama,Nim,JumlahMahasiswa,total,jumlahputaran,jumlahwaktu,panjang,lebar,tercepat,win
+Method : Setpanjang,setlebar,setjumlahwaktu,setjumlahputaran,getjumlahputaran,getjumlahwaktu,settotal,gettotal,getjumlahmhs,getnama,getnim
